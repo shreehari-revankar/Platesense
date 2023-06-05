@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Platesense/static/css/main.0228f43b.css",
+    "main.js": "/Platesense/static/js/main.2e176349.js",
+    "static/js/787.a7ee8a34.chunk.js": "/Platesense/static/js/787.a7ee8a34.chunk.js",
+    "static/media/road.png": "/Platesense/static/media/road.d4b1800b9df1484708df.png",
+    "static/media/des.png": "/Platesense/static/media/des.62a956c30245f21c5776.png",
+    "static/media/slide2.png": "/Platesense/static/media/slide2.af501038bba4b74be743.png",
+    "static/media/slide1.jpg": "/Platesense/static/media/slide1.224f11cbb49e510d63d4.jpg",
+    "static/media/22.png": "/Platesense/static/media/22.c95b5b1c03e58170bd86.png",
+    "static/media/21.png": "/Platesense/static/media/21.c8e97ff9707054516407.png",
+    "static/media/61.png": "/Platesense/static/media/61.b0f7353f0418ef595599.png",
+    "static/media/tesseractjs.png": "/Platesense/static/media/tesseractjs.203228e582b12286a24c.png",
+    "static/media/logo.png": "/Platesense/static/media/logo.89dc2f502c84750be41e.png",
+    "static/media/slide4.jpg": "/Platesense/static/media/slide4.0fd03072ff2735727454.jpg",
+    "static/media/react.png": "/Platesense/static/media/react.6c4b397cf28f0a8dfbcb.png",
+    "static/media/52.png": "/Platesense/static/media/52.e58a09a92c233e23b8f0.png",
+    "static/media/slide3.jpg": "/Platesense/static/media/slide3.80a7cb59662811bb6b1f.jpg",
+    "static/media/12.png": "/Platesense/static/media/12.84a7e2eaf741c5688dbb.png",
+    "static/media/11.png": "/Platesense/static/media/11.0458d7a1f978f6fbde3e.png",
+    "static/media/32.png": "/Platesense/static/media/32.a6ff9170beead97084c6.png",
+    "static/media/51.png": "/Platesense/static/media/51.6fd9a4c057f00a926575.png",
+    "static/media/62.png": "/Platesense/static/media/62.a46412b27c9e272edd86.png",
+    "static/media/tenserflowjs.png": "/Platesense/static/media/tenserflowjs.b1335d31864778c3dd0b.png",
+    "static/media/revicons.eot": "/Platesense/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Platesense/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Platesense/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Platesense/index.html",
+    "main.0228f43b.css.map": "/Platesense/static/css/main.0228f43b.css.map",
+    "main.2e176349.js.map": "/Platesense/static/js/main.2e176349.js.map",
+    "787.a7ee8a34.chunk.js.map": "/Platesense/static/js/787.a7ee8a34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0228f43b.css",
+    "static/js/main.2e176349.js"
+  ]
+}
