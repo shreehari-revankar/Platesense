@@ -19,11 +19,11 @@ function Navbar() {
             <h3>PLATESENSE</h3>
             </div>
 			<nav ref={navRef}>
-				<a href="/#home">HOME</a>
-				<a href="/#features-section">FEATURE</a>
-				<a href="/#glance">GLANCE</a>
-				<a href="/#demo">TRY</a>
-				<a href="/#technologies">TECHNOLOGIES</a>
+				<a href="#home">HOME</a>
+				<a href="#features-section">FEATURE</a>
+				<a href="#glance">GLANCE</a>
+				<a href="#demo">TRY</a>
+				<a href="#technologies">TECHNOLOGIES</a>
 				<button
 					className="nav-btn nav-close-btn"
 					onClick={showNavbar}>
