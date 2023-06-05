@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Platesense/static/css/main.0228f43b.css",
-    "main.js": "/Platesense/static/js/main.2e176349.js",
+    "main.js": "/Platesense/static/js/main.eeb76c14.js",
     "static/js/787.a7ee8a34.chunk.js": "/Platesense/static/js/787.a7ee8a34.chunk.js",
     "static/media/road.png": "/Platesense/static/media/road.d4b1800b9df1484708df.png",
     "static/media/des.png": "/Platesense/static/media/des.62a956c30245f21c5776.png",
@@ -27,11 +27,11 @@
     "static/media/revicons.woff": "/Platesense/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Platesense/index.html",
     "main.0228f43b.css.map": "/Platesense/static/css/main.0228f43b.css.map",
-    "main.2e176349.js.map": "/Platesense/static/js/main.2e176349.js.map",
+    "main.eeb76c14.js.map": "/Platesense/static/js/main.eeb76c14.js.map",
     "787.a7ee8a34.chunk.js.map": "/Platesense/static/js/787.a7ee8a34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0228f43b.css",
-    "static/js/main.2e176349.js"
+    "static/js/main.eeb76c14.js"
   ]
 }
