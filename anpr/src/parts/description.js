@@ -16,8 +16,8 @@ function Des(){
               <li className="black-text">Ease Of Use</li>
               <li className="black-text">Saves Manual Labour</li>
               <li className="black-text">Brilliant Accuracy</li>
-              <li className="black-text">Fully Automatic Animal Spotting System</li>
-              <li className="black-text">Species Identification</li>
+              <li className="black-text">Fully Automatic Number Plate Detection</li>
+              <li className="black-text">Text Recognition</li>
               <li className="black-text">Offence Registration</li>
               </ul>
               </div>
