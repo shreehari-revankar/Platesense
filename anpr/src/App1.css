@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+  }
+   
+  .App-image {
+    width: 60vmin;
+    pointer-events: none;
+  }
+   
+  .App-main {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(7px + 2vmin);
+    color: white;
+  }
+   
+  .text-box {
+    background: #fff;
+    color: #333;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
