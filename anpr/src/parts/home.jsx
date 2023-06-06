@@ -3,7 +3,7 @@ import './home.css';
 import Carousel from 'react-multi-carousel';
 import "react-multi-carousel/lib/styles.css";
 import Plate from './images/slide/slide1.jpg';
-import Yolo from "./images/slide/slide2.png";
+import Yolo from "./images/slide/slide2.jpg";
 import Tess from './images/slide/slide3.jpg'
 import TessYolo from './images/slide/slide4.jpg'
 function Home(){

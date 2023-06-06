@@ -43,7 +43,7 @@ function Fea(){
                 </div>
               </div>
             </div>
-            <div>
+            <div className='align-card'>
             <MultiCarousel slides={5} responsive={responsive} infinite={true} autoPlay={true} showDots={true} dotListClass="custom-dot-list-style" autoPlaySpeed={1800} >
            <div className="card">
                 <div className="card-side front">

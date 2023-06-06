@@ -20,7 +20,7 @@ header {
 	display: flex;
 	align-items: center;
     z-index: 9999;
-	height: 50px;
+	height: 7vh;
 	padding: 0 1rem;
 	backdrop-filter: blur(10px);
 	color: var(--textColor);

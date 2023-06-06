@@ -3,7 +3,7 @@
     background-size: cover;
     background-size: 100% 100%;
     width: 100%;
-    height:750px;
+    height:100vh;
     padding-top:50px;
 }
 .row1 {
@@ -19,6 +19,7 @@
 @media only screen and (max-width: 1024px){
 .contain{  
   padding-top:0px;
+  height:750px;
   background-image: url("./images/road.png");
 }
 
@@ -113,10 +114,17 @@
 .para{
   min-width: 100%;
   color: #ffffff;
-  margin-top:-100px;
-    max-width: 400px;
-    padding-left: 22rem;
-    padding-right: 22rem;
+  margin-top:-10vh;
+  max-width: 400px;
+  padding-left: 22rem;
+  padding-right: 22rem;
+  font-size:20px;
+}
+@media only screen and (max-width: 1300px){
+  .para{
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
 }
 @media only screen and (max-width: 1024px){
   .para{
@@ -124,6 +132,12 @@
     padding-right: 0rem;
   }
 }
+@media only screen and (max-width: 800px){
+  .para{
+    font-size:15px;
+  }
+}
+
 .para-h{
   font-size: 4rem;
   font-weight: 900;
@@ -287,7 +301,7 @@ background: rgb(255, 68, 68) !important;
   position: static;
   background-color: transparent;
   border-radius: 5px;
-  height:325px;
+  height:46vh;
   transition: all .2s ease-in-out;
 }
 @media only screen and (max-width: 1024px){
