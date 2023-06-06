@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Platesense/static/css/main.aa0b5a8d.css",
-    "main.js": "/Platesense/static/js/main.973a085c.js",
+    "main.css": "/Platesense/static/css/main.0f3c2100.css",
+    "main.js": "/Platesense/static/js/main.d022a6bf.js",
     "static/js/787.a7ee8a34.chunk.js": "/Platesense/static/js/787.a7ee8a34.chunk.js",
     "static/media/road.png": "/Platesense/static/media/road.85b967de3d713ff34399.png",
     "static/media/des.png": "/Platesense/static/media/des.62a956c30245f21c5776.png",
-    "static/media/slide2.png": "/Platesense/static/media/slide2.af501038bba4b74be743.png",
     "static/media/slide1.jpg": "/Platesense/static/media/slide1.224f11cbb49e510d63d4.jpg",
+    "static/media/slide4.jpg": "/Platesense/static/media/slide4.fd015afbbb62957585ca.jpg",
     "static/media/22.png": "/Platesense/static/media/22.c95b5b1c03e58170bd86.png",
+    "static/media/slide3.jpg": "/Platesense/static/media/slide3.b79cfbd43dde20a19b04.jpg",
     "static/media/21.png": "/Platesense/static/media/21.c8e97ff9707054516407.png",
     "static/media/61.png": "/Platesense/static/media/61.b0f7353f0418ef595599.png",
     "static/media/tesseractjs.png": "/Platesense/static/media/tesseractjs.203228e582b12286a24c.png",
+    "static/media/slide2.jpg": "/Platesense/static/media/slide2.2dc26be5acdc553809a8.jpg",
     "static/media/logo.png": "/Platesense/static/media/logo.89dc2f502c84750be41e.png",
     "static/media/colab.png": "/Platesense/static/media/colab.a3bc72a60f8a4e92d150.png",
-    "static/media/slide4.jpg": "/Platesense/static/media/slide4.0fd03072ff2735727454.jpg",
     "static/media/react.png": "/Platesense/static/media/react.6c4b397cf28f0a8dfbcb.png",
     "static/media/52.png": "/Platesense/static/media/52.e58a09a92c233e23b8f0.png",
-    "static/media/slide3.jpg": "/Platesense/static/media/slide3.80a7cb59662811bb6b1f.jpg",
     "static/media/12.png": "/Platesense/static/media/12.84a7e2eaf741c5688dbb.png",
     "static/media/11.png": "/Platesense/static/media/11.0458d7a1f978f6fbde3e.png",
     "static/media/32.png": "/Platesense/static/media/32.a6ff9170beead97084c6.png",
@@ -27,12 +27,12 @@
     "static/media/revicons.ttf": "/Platesense/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Platesense/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Platesense/index.html",
-    "main.aa0b5a8d.css.map": "/Platesense/static/css/main.aa0b5a8d.css.map",
-    "main.973a085c.js.map": "/Platesense/static/js/main.973a085c.js.map",
+    "main.0f3c2100.css.map": "/Platesense/static/css/main.0f3c2100.css.map",
+    "main.d022a6bf.js.map": "/Platesense/static/js/main.d022a6bf.js.map",
     "787.a7ee8a34.chunk.js.map": "/Platesense/static/js/787.a7ee8a34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa0b5a8d.css",
-    "static/js/main.973a085c.js"
+    "static/css/main.0f3c2100.css",
+    "static/js/main.d022a6bf.js"
   ]
 }
