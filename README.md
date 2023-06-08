@@ -1,4 +1,4 @@
-![PLATESENSE](/INFO/logo2.png)
+![PLATESENSE](/INFO/logo.png)
 
 # Platesense
 An Advance Number Plate Recognition System.
