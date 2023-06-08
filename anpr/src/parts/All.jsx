@@ -1,10 +1,10 @@
 import Navbar from './Navbar.jsx'
 import Home from './home.jsx'
-import Des from './description.js'
-import Fea from './feature.js'
-import Glance from './glance.js'
-import Demo from './demo.js';
-import Tech from './tech.js';
+import Des from './description.jsx'
+import Fea from './feature.jsx'
+import Glance from './glance.jsx'
+import Demo from './demo.jsx';
+import Tech from './tech.jsx';
 function All(){
     return(
         <div>
